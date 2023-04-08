@@ -1,0 +1,23 @@
+.day {
+  background-color: #fff;
+  color: #000;
+}
+.night {
+  background-color: #000;
+  color: #fff;
+
+  .myBtn {
+    border: 1px solid white;
+    color: #fff;
+    &:hover {
+      border: 1px solid white;
+    }
+  }
+}
+.myBtn {
+  border: 1px solid black;
+  color: #000;
+  &:hover {
+    border: 1px solid black;
+  }
+}

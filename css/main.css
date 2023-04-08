@@ -1,0 +1,24 @@
+.day {
+  background-color: #fff;
+  color: #000;
+}
+
+.night {
+  background-color: #000;
+  color: #fff;
+}
+.night .myBtn {
+  border: 1px solid white;
+  color: #fff;
+}
+.night .myBtn:hover {
+  border: 1px solid white;
+}
+
+.myBtn {
+  border: 1px solid black;
+  color: #000;
+}
+.myBtn:hover {
+  border: 1px solid black;
+}/*# sourceMappingURL=main.css.map */
